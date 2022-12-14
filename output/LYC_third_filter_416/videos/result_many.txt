@@ -1,0 +1,6 @@
+001.mp4, total frame is 947, detect frame is 762, right_low: 0.7192, right_high: 0.7375, all predicts is [('fish_001', 0.7375), ('fish_021', 0.1864), ('fish_045', 0.0407), ('fish_033', 0.0341), ('fish_025', 0.0013)]
+021.mp4, total frame is 1041, detect frame is 1041, right_low: 1.0, right_high: 1.0, all predicts is [('fish_021', 1.0)]
+025.mp4, total frame is 934, detect frame is 611, right_low: 0.1227, right_high: 0.2553, all predicts is [('fish_045', 0.671), ('fish_025', 0.2553), ('fish_033', 0.0736)]
+033.mp4, total frame is 938, detect frame is 541, right_low: 0.8725, right_high: 0.902, all predicts is [('fish_033', 0.8725), ('fish_001', 0.0795), ('fish_025', 0.0481)]
+045.mp4, total frame is 1306, detect frame is 1097, right_low: 0.268, right_high: 0.4494, all predicts is [('fish_025', 0.3838), ('fish_001', 0.2981), ('fish_045', 0.268), ('fish_033', 0.0428), ('fish_021', 0.0073)]
+{'001': {'low': 0.7192, 'high': 0.7375}, '021': {'low': 1.0, 'high': 1.0}, '025': {'low': 0.1227, 'high': 0.2553}, '033': {'low': 0.8725, 'high': 0.902}, '045': {'low': 0.268, 'high': 0.4494}, 'low': 0.5965, 'high': 0.6688}
